@@ -1,0 +1,13 @@
+html{background-color: #FFF30D;}
+.circle1{background-color: #FD9D31;padding-left: 80px;width: 200px;padding-top: 40px;padding-bottom: 30px;
+	border-radius: 200px;color: yellow;position: absolute;top: 40px;left: 200px}
+.circle2{background-color: #8A5018;padding-left: 20px;width: 190px;padding-top: 55px;padding-bottom: 55px;
+	border-radius: 510px;color: white;position: absolute;top: 440px;left: 220px;}
+.circle3{background-color: white;padding-left: 50px;width: 380px;padding-right:25px;padding-top: 70px;
+	padding-bottom: 70px;border-radius: 600px;color: #542616;font-weight: bold;position: absolute;top: 240px;left: 400px}
+.circle4{background-color: white;padding-left: 40px;width: 160px;padding-top: 30px;padding-bottom: 30px;
+	border-radius: 150px;position: absolute;top: 140px;left: 700px;}
+.circle5{background-color: #8A5018;padding-left: 20px;width: 85px;padding-top: 8px;padding-bottom: 11px;
+	border-radius: 50px;color: white;position: fixed;top: 550px;left: 950px;}
+.circle6{background-color: #FD9D31;padding-left: 10px;width: 120px;padding-top: 34px;padding-bottom: 34px;
+	border-radius: 310px;color: yellow;position: absolute;top: 700px;left: 400px;}
