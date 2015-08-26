@@ -1,0 +1,46 @@
+.container-fluid{
+	margin-top: 10px; 
+	position: absolute; 
+	z-index: -2; 
+	left: 5px; 
+	top: 0px;
+	background-color: #E8FEE6;
+	border-radius: 50px;
+}
+
+.interest{
+	background-color: #C1FDDF; 
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 50px;
+	border-color: #2FFB95;
+	border-width: 5px;
+	border-style: dashed;
+	padding-bottom: 5px;
+	color: green;
+	margin-left: 5px;
+	padding-bottom: 10px;
+}
+img{
+	width: 100%; 
+	height: auto;
+}
+.photo{
+	z-index:1;
+}
+.drawing{
+	position: absolute; 
+	z-index: -1; 
+	left: 0px; 
+	top: 650px;  
+	background-color: #E8FEE6;
+	padding-bottom: 30px;
+	
+}
+.pic{
+	width: 600px;
+	height: 490px;
+}
+html{
+	background-color: #E8FEE6;
+}

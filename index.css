@@ -1,0 +1,64 @@
+.container{
+	background-color: #C4FAFF; 
+	box-sizing:border-box; 
+	border-radius: 70%;
+}
+.top{
+	background-image: url(top.jpg);
+	width: 100%;
+	height: auto;
+	margin-top: 50px;
+}
+.row{
+	margin-bottom: 50px; 
+	text-align: center;
+}
+img{
+	width: 100%; 
+	height: auto;
+}
+.icon{
+	padding-top: 20px;
+}
+.circle1{
+	  background-color: #FE7070;
+	  box-sizing:border-box; 
+	  border-radius: 50%;
+	  font-family: 'Delius Unicase', cursive;
+}
+.circle2{
+	background-color: #FDC266; 
+	box-sizing:border-box; 
+	border-radius: 50%;
+	font-family: 'Delius Unicase', cursive;
+}
+.circle3{
+	background-color: #FBFF73; 
+	box-sizing:border-box; 
+	border-radius: 50%;
+	font-family: 'Delius Unicase', cursive;
+}
+.circle4{
+	background-color: #90FE56; 
+	box-sizing:border-box; 
+	border-radius: 50%;
+	font-family: 'Delius Unicase', cursive;
+}
+.circle5{
+	background-color: #69F9FF; 
+	box-sizing:border-box; 
+	border-radius: 50%;
+	font-family: 'Delius Unicase', cursive;
+}
+.circle6{
+	background-color: #FF80F1; 
+	box-sizing:border-box; 
+	border-radius: 50%;
+	font-family: 'Delius Unicase', cursive;
+}
+.name{
+	font-family: 'Original Surfer', cursive;
+	font-size: small;
+	color: #39092D;
+	font-weight: bolder;
+}
